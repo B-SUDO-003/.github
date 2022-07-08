@@ -19,3 +19,9 @@
 
 ### 🌱 I’m currently learning **Python, C, C++, Java, Java script Node.js, HTML, CSS**
 ### 👨‍💻 All of my Open Source projects are available at > [***PROJECTS***](https://github.com/Ajay-o-s?tab=repositories) <
+
+# **Support**
+
+## If you like what I do, please consider **[buying me a coffee](https://www.buymeacoffee.com/Ajayos)!**
+
+<a href="https://www.buymeacoffee.com/Ajayos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
