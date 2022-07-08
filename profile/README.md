@@ -18,4 +18,4 @@
 
 
 ### 🌱 I’m currently learning **Python, C, C++, Java, Java script Node.js, HTML, CSS**
-### 👨‍💻 All of my Open Source projects are available at > [***PROJECTS***](#Projects) <
+### 👨‍💻 All of my Open Source projects are available at > [***PROJECTS***](https://github.com/Ajay-o-s?tab=repositories) <
